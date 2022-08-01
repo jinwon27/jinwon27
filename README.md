@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<Strong>📬Email</Strong><br>jinwon7826@gmail.com<br>
+<Strong>📫Email</Strong><br>jinwon782@gmail.com<br>
 
 <br>
 
