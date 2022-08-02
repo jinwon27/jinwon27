@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 반갑습니다😁<br>
-제 이름은 조진원입니다.<br>
+제 이름은 JINWON입니다.<br>
 현재 JAVA Back-End를 공부중입니다.<br>
 </p>
 
